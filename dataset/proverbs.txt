@@ -1,0 +1,231 @@
+1 : Absence makes the heart grow fonder.
+2 : Actions speak louder than words.
+3 : All for one and one for all.
+4 : All's fair in love and war.
+5 : All work and no play makes Jack a dull boy. 
+6 : All's well that ends well.
+7 : An apple a day keeps the doctor away.
+8 : An apple never falls far from the tree.
+9 : An ounce of prevention is worth a pound of cure.
+10 : Appearances can be deceiving.
+11 : April showers bring May flowers.
+12 : Bad news travels fast.
+13 : Beauty is in the eye of the beholder.
+14 : Beauty is only skin deep.
+15 : Beggars can't be choosers.
+16 : Behind every good man is a good woman.
+17 : The best defense is a good offense.
+18 : The best laid plans of mice and men (often go astray).
+19 : Better late than never.
+20 : Better safe than sorry.
+21 : Better to have loved and lost than never to have loved at all.
+22 : Beware of Greeks bearing gifts.
+23 : The bigger thet are the harder they fall.
+24 : A bird in the hand is worth two in the bush.
+25 : Birds of a feather flock together.
+26 : Blood is thicker than water.
+27 : Boys will be boys.
+28 : Caught between a rock and a hard place.
+29 : A chain is only a strong as its weakest link.
+30 : Charity begins at home.
+31 : The chickens have come home to roost.
+32 : Cleanliness is next to godliness.
+33 : Close, but no cigar.
+34 : Cold hands, warm heart.
+35 : The cure is worse than the disease.
+36 : Curiosity killed the cat.
+37 : The customer is always right.
+38 : Damned if you do, damned if you don't.
+39 : Discretion is the better part of valor.
+40 : Do unto others as you would have them do unto you.
+41 : A dog is a man's best friend.
+42 : Don't bite off more than you can chew.
+43 : Don't bite the hand that feeds you.
+44 : Don't change horses in midstream.
+45 : Don't count your chickens before they hatch.
+46 : Don't cry over spilt milk.
+47 : Don't cut off your nose to spite your face.
+48 : Don't judge a book by its cover.
+49 : Don't lock the stable door after the horse is gone.
+50 : Don't look a gift horse in the mouth.
+51 : Don't make a mountain out of a mole-hill.
+52 : Don't put all your eggs in one basket.
+53 : Don't put the cart before the horse.
+54 : Don't rock the boat.
+55 : Don't throw the baby out with the bathwater.
+56 : Don't upset the apple cart.
+57 : Early to bed and early to rise makes a man healthy, wealthy, and wise.
+58 : The early bird catches the worm.
+59 : Easy come, easy go.
+60 : Easy does it.
+61 : The end justifies the means.
+62 : Every cloud has a silver lining.
+63 : Every dog has its day.
+64 : Every man pays his price.
+65 : The exception that proves the rule.
+66 : Experience is the best teacher.
+67 : Feed a cold, starve a fever.
+68 : Finders keepers, losers weepers.
+69 : First things first.
+70 : Fish, or cut bait.
+71 : A fool and his money are soon parted.
+72 : A friend in need is a friend indeed.
+73 : Give the devil his due.
+74 : God helps those who help themselves.
+75 : Going to hell in a handbasket.
+76 : Good fences make good neighbors.
+77 : Good men are hard to find.
+78 : Great minds think alike.
+79 : Good things come in small packages.
+80 : Good things come to he who waits.
+81 : The grass is always greener (on the other side of the fence).
+82 : Great oaks from little acorns grow.
+83 : Half a loaf is better than none.
+84 : Haste makes waste.
+85 : Here today, gone tomorrow
+86 : He who hesitates is lost.
+87 : He who laughs last, laughs best. (or 'longest')
+88 : He who lives by the sword, dies by the sword.
+89 : Hindsight is 20-20.
+90 : His bark is worse than his bite.
+91 : Honesty is the best policy.
+92 : Honey catches more flies than vinegar.
+93 : A house is not a home.
+94 : Idle minds are the devil's workshop.
+95 : If at first you don't succeed, try, try again.
+96 : If God had meant us to fly he'd have given us wings.
+97 : If it ain't broke, don't fix it.
+98 : If it's not one thing, it's another.
+99 : If the shoe fits, wear it.
+100 : If wishes were horses then beggars would ride.
+101 : If you can't lick 'em, join 'em.
+102 : If you can't stand the heat, get out of the kitchen.
+103 : If you want a thing done right, do it yourself.
+104 : Ignorance is bliss.
+105 : Immitation is the sicerest form of flattery.
+106 : In for a penny, in for a pound.
+107 : Into every life a little rain must fall.
+108 : Its better to give than to receive.
+109 : It ain't over till the fat lady sings.
+110 : It takes one to know one.
+111 : It takes two to tango.
+112 : A jack of all trades is master of none.
+113 : Keep your powder dry.
+114 : Keeping up with the Jonses.
+115 : Kill two birds with one stone.
+116 : Laugh, and the world laughs with you; (cry, and you cry alone.)
+117 : Laughter is the best medicine.
+118 : Leave well enough alone.
+119 : A leopard cannot change its spots.
+120 : Let bygones be bygones.
+121 : Let sleeping dogs lie.
+122 : Lightning never strikes twice in the same place.
+123 : Like father, like son.
+124 : A little knowledge is a dangerous thing.
+125 : Little strokes fell great oaks.
+126 : Live and learn.
+127 : Live and let live.
+128 : Look before you leap.
+129 : Love is blind.
+130 : Make hay while the sun shines.
+131 : Man does not live by bread alone.
+132 : A Man's home is his castle.
+133 : Many hands make light work.
+134 : Measure twice, cut once.
+135 : Mind your p's and q's.
+136 : Misery loves company.
+137 : A miss is as good as a mile.
+138 : Money doesn't grow on trees.
+139 : Money is the root of all evil.
+140 : Monkey see, monkey do.
+141 : The more the merrier.
+142 : Necessity is the mother of invention.
+143 : It's not over 'till it's over.
+144 : Never put off till tomorrow what you can do today. 
+145 : Never trouble trouble till trouble troubles you.
+146 : It's never too late to change.
+147 : No news is good news.
+148 : No pain, no gain. 
+149 : No rest for the weary.
+150 : No rest for the wicked.
+151 : Nothing is certain but death and taxes.
+152 : Nothing ventured, nothing gained.
+153 : Oil and water don't mix.
+154 : Old habits die hard.
+155 : Once bitten, twice shy.
+156 : One good turn deserves another.
+157 : One man's junk is another man's treasure.
+158 : One picture is worth a thousand words.
+159 : One rotten apple spoils the whole barrel.
+160 : An ounce of prevention is worth a pound of cure.
+161 : Out of sight, out of mind.
+162 : The pen is mightier than the sword.
+163 : A penny saved is a penny earned.
+164 : People who live in glass houses shouldn't throw stones.
+165 : A place for everything and everything in its place.
+166 : Possession is nine-tenths of the law.
+167 : Practice makes perfect.
+168 : Practice what you preach.
+169 : Pride comes before a fall.
+170 : The proof of the pudding is in the eating. (Nowadays mysteriously shortened to "the proof is in the pudding")
+171 : Put up or shut up.
+172 : Put your money where your mouth is.
+173 : The road to hell is paved with good intentions.
+174 : A rolling stone gathers no moss.
+175 : Rome wasn't built in a day.
+176 : Rules were meant to be broken.
+177 : Scratch my back and I'll scratch yours.
+178 : Seeing is believing.
+179 : The show must go on.
+180 : Silence is golden.
+181 : Slow and steady wins the race.
+182 : Spare the rod, spoil the child.
+183 : Speak softly and carry a big stick.
+184 : The squeaky wheel gets the grease.
+185 : Sticks and stones may break my bones, but words (sometimes 'names') will never hurt me.  
+186 : Still waters run deep.
+187 : A stitch in time saves nine.
+188 : Strike while the iron is hot
+189 : Talk is cheap.
+190 : There's a sucker born every minute.
+191 : There's more than one way to skin a cat.
+192 : There is no accounting for tastes.
+193 : There's no fool like an old fool.
+194 : There is no honor among thieves.
+195 : There's no place like home.
+196 : There's no time like the present.
+197 : They don't make things like they used to.
+198 : Time heals all wounds.
+199 : To err is human, to forgive, divine.
+200 : Too many cooks spoil the broth.
+201 : Truth is stranger than fiction.
+202 : Turnabout is fair play.
+203 : Two heads are better than one.
+204 : Two's company, three's a crowd.
+205 : Two wrongs don't make a right.
+206 : Up a creek without a paddle.
+207 : Waste not, want not.
+208 : A watched pot never boils.
+209 : The way to a man's heart is through his stomach.
+210 : Well begun is half done.
+211 : What goes around comes around.
+212 : Whatever will be, will be.
+213 : What you see is what you get.
+214 : When it rains, it pours.
+215 : When in Rome, (do as the Romans do.)
+216 : When the cat's away the mice will play.
+217 : When one door closes another door opens.
+218 : When the going gets tough, the tough get going.
+219 : Where there's a will, there's a way.
+220 : Where there's smoke, there's fire.
+221 : A woman's work is never done.
+222 : You can't have your cake and eat it too.
+223 : You can lead a horse to water, but you can't make him drink.
+224 : You can't please everyone.
+225 : You can't take it with you.
+226 : You can't teach an old dog new tricks.
+227 : You get what you pay for.
+228 : You can't win them all.
+229 : You have to break a few eggs to make an omlette.
+230 : You have to take the good  with the bad.
+231 : You win some, you lose some.
